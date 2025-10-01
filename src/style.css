@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: hsl(217, 54%, 11%);
+  background-color: hsl(255, 53%, 12%);
   color: white;
 }
 
@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  background-color: hsl(216, 50%, 16%);
+  background-color: hsl(257, 50%, 13%);
   flex-wrap: wrap;
 }
 
