@@ -75,8 +75,6 @@ body {
     height: 28px;
     margin: 0 5px;
     vertical-align: middle;
-    filter: brightness(0) invert(1);
-    transition: filter 0.3s;
   }
   .footer-section.social a img:hover {
     filter: brightness(1) invert(0.2) sepia(1) saturate(5) hue-rotate(40deg);
